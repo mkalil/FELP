@@ -9,30 +9,27 @@ Built on 8-8-19 at Capital One Software Engineering Summit Hackathon
 Felp is currently not deployed so needs to be run locally
 
 ## Usage
+```
 export FLASK_APP=app.py
 flask run
+```
 
 start localhost:5000
 
 ## Contributors
-Ryan Cohen
-Madeline Kawil
-Iyayi Aiyevbomwan
-Connor Calderon
-Denmar Feliciano
+* Ryan Cohen
+* Madeline Kalil
+* Iyayi Aiyevbomwan
+* Connor Calderon
+* Denmar Feliciano
 
 ## Stack
-Python
+* Python
 * Flask
 * SQLalchemy
 * Jinja2
- * postgresql
-
-JavaScript
+* postgresql
+* JavaScript
 * HTML
 * CSS
-
-Amazon Web Services
-* Relational Database
-
-Google Maps API
+* Google Maps API
