@@ -1,7 +1,7 @@
 # Felp Web Application
 
-Felp is a Web App to connect resturants and nonprofit organizations to
-customers in order to raise more moeny for fundraising efforts
+Felp is a web app to connect resturants and nonprofit organizations to
+customers in order to support local fundraising efforts
 
 Built on 8-8-19 at Capital One Software Engineering Summit Hackathon
 
